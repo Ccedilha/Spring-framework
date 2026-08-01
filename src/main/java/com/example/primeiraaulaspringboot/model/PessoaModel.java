@@ -1,8 +1,11 @@
-package com.example.primeiraaulaspringboot;
+package com.example.primeiraaulaspringboot.model;
 public class PessoaModel {
     private String nome;
     private int idade;
     private String cidadeNascimento;
+
+    //metodo construtor vazio
+    public PessoaModel(){}
 
     public PessoaModel(String nome, int idade, String cidadeNascimento) {
         this.nome = nome;
