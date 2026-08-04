@@ -1,4 +1,6 @@
+<div align="center">
 <p text-align=center">Método Post</p>
+
 <p align=center> 
   <img width="600" alt="Image" src="https://github.com/user-attachments/assets/f3432167-a42c-4988-9c34-3cd6e8b37d4d" />
 </p>
