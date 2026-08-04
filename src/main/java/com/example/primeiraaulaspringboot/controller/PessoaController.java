@@ -35,7 +35,7 @@ public class PessoaController {
         return novaPessoa;
     }
 
-    //localhost:8080/pessoa/atualizarPessoa/{nome}
+    //localhost:8080/pessoa/atualizarPessoa/{nomePessoa}
     @PutMapping("atualizarPessoa/{nomePessoa}")
     public PessoaModel atualizarPessoa(
             @PathVariable String nomePessoa,
